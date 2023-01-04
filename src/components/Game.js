@@ -64,7 +64,7 @@ const Game = ({ gameBlocks, setGameBlocks, gameMode, playerOneTurn, setPlayerOne
                         return item
                     })
                 )
-                , 1200)
+                , 1000)
 
             } else {
                 playSoundMatch()
